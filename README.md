@@ -85,9 +85,9 @@ The system uses a distributed architecture with the following components:
                               ▲                         ▲
                               │                         │
                               ▼                         ▼
-                        ┌─────────────────┐     ┌─────────────────┐
-                        │ Message Queue   │     │PredictiveAnalysis │
-                        └─────────────────┘     └─────────────────┘
+                        ┌─────────────────┐     ┌─────────────────────┐
+                        │ Message Queue   │     │Predictive Analysis │
+                        └─────────────────┘     └─────────────────────┘
 ```
 
 ## Performance Considerations
